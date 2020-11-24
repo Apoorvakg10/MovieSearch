@@ -1,0 +1,39 @@
+.navbar {
+    margin-top: 10px;
+    background-color: rgb(56, 160, 230);
+    height: 90px;
+ }
+ .tittle{
+     color: rgb(17, 18, 22);
+     font-weight: bolder;
+     font-size: 35px;
+     font-family: colonna mt;
+ }
+
+ .form-inline .form-control {
+     width: 450px;
+     outline: none;
+ }
+ .btn {
+     color: rgb(3, 12, 5);
+     background-color: rgb(18, 235, 83);
+     font-weight: 500;
+     outline: none;
+ }
+ body{
+     background-color: rgb(241, 234, 240);
+ }
+ section{
+     display:flex;
+     overflow-x: auto;
+ }
+ section img{
+     width: 300px;
+     height: 450px;
+     margin-left: 5px;
+     margin-top: 20px;
+ }
+ img:hover{
+     border: 10px solid rgb(231, 223, 236);
+    
+ }
